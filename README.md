@@ -6,8 +6,7 @@
 ██║   ██╔████╔██║    ██║  ███╗██████╔╝███████║██║   ██║██║     ██║   
 ██║   ██║╚██╔╝██║    ██║   ██║██╔══██╗██╔══██║██║   ██║██║     ██║   
 ██║   ██║ ╚═╝ ██║    ╚██████╔╝██████╔╝██║  ██║╚██████╔╝███████╗██║   
-╚═╝   ╚═╝     ╚═╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝   
-                                                                     
+╚═╝   ╚═╝     ╚═╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝                                                                        
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2D9BF7&center=true&vCenter=true&width=512&height=48&lines=Senior+Student+%40+UIT+-+VNUHCM;Next.js+Enthusiast+%7C+Fullstack+Developer;Love+building+catchy+things;Ho+Chi+Minh+City%2C+Viet+Nam+%F0%9F%87%BB%F0%9F%87%B3)](https://git.io/typing-svg)
